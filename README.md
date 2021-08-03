@@ -1,6 +1,6 @@
 # Eve's Corner
 
-### Hi!
+### Halo!!
 
 I'm a high school student studying software engineering. 
 I'm interested in pursuing computer science and IT as a career path.  
