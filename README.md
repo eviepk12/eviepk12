@@ -9,7 +9,7 @@ I'm interested in pursuing computer science and IT as a career path.
 
 * https://twitter.com/ExpertiseEvelyn
 * https://steamcommunity.com/id/-she
-* Epi#2047
+* Discord : Epi#2047
 
 ### Projects
 
