@@ -13,4 +13,4 @@ I'm interested in pursuing computer science and IT as a career path.
 
 ### Projects
 
-* eviepk12.github.io
+* https://eviepk12.github.io
