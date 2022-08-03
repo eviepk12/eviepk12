@@ -1,4 +1,8 @@
-# Hi, welcome to my corner of the internet! 🌸
+# Hi, welcome to my corner of the internet! <img align="center" src="https://cdn.discordapp.com/attachments/777542191031255040/923797199857532978/Sprite-0003.gif"/>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/777542191031255040/923797199589101618/moon.png">
+</p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eviepk12&show_icons=true&theme=gruvbox_light"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviepk12&layout=compact"/>
